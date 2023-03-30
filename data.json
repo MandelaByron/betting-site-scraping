@@ -1,0 +1,2138 @@
+[
+  {
+    "season": 15,
+    "start_time": "2023-03-29 17:48:00",
+    "regions": {
+      "England": {
+        "Games": [
+          {
+            "index": 0,
+            "team_1": "Aston Villa",
+            "team_2": "Arsenal",
+            "btts": {
+              "odds": {
+                "Yes": 2.23,
+                "No": 1.66
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.32,
+                "Under": 1.62
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 5.02,
+                "x": 3.71,
+                "2": 1.72
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.28,
+                "1x": 2.13,
+                "2x": 1.18
+              }
+            }
+          },
+          {
+            "index": 1,
+            "team_1": "Crystal Palace",
+            "team_2": "Liverpool",
+            "btts": {
+              "odds": {
+                "Yes": 1.79,
+                "No": 2.05
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.51,
+                "Under": 2.62
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 7.81,
+                "x": 5.54,
+                "2": 1.35
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.15,
+                "1x": 3.23,
+                "2x": 1.08
+              }
+            }
+          },
+          {
+            "index": 2,
+            "team_1": "Everton",
+            "team_2": "Brighton",
+            "btts": {
+              "odds": {
+                "Yes": 1.87,
+                "No": 1.94
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.04,
+                "Under": 1.79
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.11,
+                "x": 3.63,
+                "2": 3.34
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.33,
+                "2x": 1.74
+              }
+            }
+          },
+          {
+            "index": 3,
+            "team_1": "Leeds",
+            "team_2": "Southampton",
+            "btts": {
+              "odds": {
+                "Yes": 1.65,
+                "No": 2.25
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.74,
+                "Under": 2.1
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.22,
+                "x": 3.85,
+                "2": 2.95
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.27,
+                "1x": 1.41,
+                "2x": 1.67
+              }
+            }
+          },
+          {
+            "index": 4,
+            "team_1": "Man United",
+            "team_2": "Man City",
+            "btts": {
+              "odds": {
+                "Yes": 1.67,
+                "No": 2.22
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.78,
+                "Under": 2.05
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.6,
+                "x": 3.79,
+                "2": 2.49
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.27,
+                "1x": 1.54,
+                "2x": 1.5
+              }
+            }
+          },
+          {
+            "index": 5,
+            "team_1": "Newcastle Utd",
+            "team_2": "Brentford",
+            "btts": {
+              "odds": {
+                "Yes": 2.05,
+                "No": 1.78
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.37,
+                "Under": 1.59
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.47,
+                "x": 3.36,
+                "2": 2.88
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.33,
+                "1x": 1.42,
+                "2x": 1.55
+              }
+            }
+          },
+          {
+            "index": 6,
+            "team_1": "Norwich",
+            "team_2": "Burnley",
+            "btts": {
+              "odds": {
+                "Yes": 2.18,
+                "No": 1.69
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.59,
+                "Under": 1.51
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.85,
+                "x": 3.24,
+                "2": 2.56
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.35,
+                "1x": 1.52,
+                "2x": 1.43
+              }
+            }
+          },
+          {
+            "index": 7,
+            "team_1": "Spurs",
+            "team_2": "Chelsea",
+            "btts": {
+              "odds": {
+                "Yes": 2.5,
+                "No": 1.54
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 3.15,
+                "Under": 1.36
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.76,
+                "x": 3.01,
+                "2": 2.81
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.39,
+                "1x": 1.44,
+                "2x": 1.45
+              }
+            }
+          },
+          {
+            "index": 8,
+            "team_1": "Watford",
+            "team_2": "West Ham",
+            "btts": {
+              "odds": {
+                "Yes": 2.16,
+                "No": 1.7
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.55,
+                "Under": 1.52
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.99,
+                "x": 3.27,
+                "2": 2.44
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.34,
+                "1x": 1.56,
+                "2x": 1.4
+              }
+            }
+          },
+          {
+            "index": 9,
+            "team_1": "Wolves",
+            "team_2": "Leicester",
+            "btts": {
+              "odds": {
+                "Yes": 1.92,
+                "No": 1.89
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.98,
+                "Under": 1.84
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 4.36,
+                "x": 3.88,
+                "2": 1.78
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.26,
+                "1x": 2.05,
+                "2x": 1.22
+              }
+            }
+          }
+        ],
+        "Results": [
+          {
+            "status": "fulltime",
+            "team_1": "Aston Villa",
+            "team_2": "Arsenal",
+            "team_1_score": 2,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Crystal Palace",
+            "team_2": "Liverpool",
+            "team_1_score": 2,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Everton",
+            "team_2": "Brighton",
+            "team_1_score": 0,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Leeds",
+            "team_2": "Southampton",
+            "team_1_score": 0,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Man United",
+            "team_2": "Man City",
+            "team_1_score": 0,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Newcastle Utd",
+            "team_2": "Brentford",
+            "team_1_score": 0,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Norwich",
+            "team_2": "Burnley",
+            "team_1_score": 1,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Spurs",
+            "team_2": "Chelsea",
+            "team_1_score": 2,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Watford",
+            "team_2": "West Ham",
+            "team_1_score": 0,
+            "team_2_score": 2
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Wolves",
+            "team_2": "Leicester",
+            "team_1_score": 1,
+            "team_2_score": 4
+          }
+        ],
+        "League Table": [
+          {
+            "team": "West Ham",
+            "W": 2,
+            "D": 0,
+            "L": 0,
+            "PTS": 6
+          },
+          {
+            "team": "Spurs",
+            "W": 2,
+            "D": 0,
+            "L": 0,
+            "PTS": 6
+          },
+          {
+            "team": "Man United",
+            "W": 1,
+            "D": 1,
+            "L": 0,
+            "PTS": 4
+          },
+          {
+            "team": "Newcastle Utd",
+            "W": 1,
+            "D": 1,
+            "L": 0,
+            "PTS": 4
+          },
+          {
+            "team": "Brighton",
+            "W": 1,
+            "D": 1,
+            "L": 0,
+            "PTS": 4
+          },
+          {
+            "team": "Man City",
+            "W": 1,
+            "D": 1,
+            "L": 0,
+            "PTS": 4
+          },
+          {
+            "team": "Leicester",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Aston Villa",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Southampton",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Leeds",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Crystal Palace",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Wolves",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Norwich",
+            "W": 1,
+            "D": 0,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Brentford",
+            "W": 0,
+            "D": 2,
+            "L": 0,
+            "PTS": 2
+          },
+          {
+            "team": "Burnley",
+            "W": 0,
+            "D": 1,
+            "L": 1,
+            "PTS": 1
+          },
+          {
+            "team": "Chelsea",
+            "W": 0,
+            "D": 1,
+            "L": 1,
+            "PTS": 1
+          },
+          {
+            "team": "Everton",
+            "W": 0,
+            "D": 1,
+            "L": 1,
+            "PTS": 1
+          },
+          {
+            "team": "Arsenal",
+            "W": 0,
+            "D": 1,
+            "L": 1,
+            "PTS": 1
+          },
+          {
+            "team": "Liverpool",
+            "W": 0,
+            "D": 0,
+            "L": 2,
+            "PTS": 0
+          },
+          {
+            "team": "Watford",
+            "W": 0,
+            "D": 0,
+            "L": 2,
+            "PTS": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "season": 15,
+    "start_time": "2023-03-29 17:48:00",
+    "regions": {
+      "Spain": {
+        "Games": [
+          {
+            "index": 0,
+            "team_1": "Alav\u00e9s",
+            "team_2": "Valencia",
+            "btts": {
+              "odds": {
+                "Yes": 1.66,
+                "No": 2.24
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.76,
+                "Under": 2.07
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.64,
+                "x": 3.8,
+                "2": 2.45
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.27,
+                "1x": 1.56,
+                "2x": 1.49
+              }
+            }
+          },
+          {
+            "index": 1,
+            "team_1": "Atl\u00e9tico Madrid",
+            "team_2": "Elche",
+            "btts": {
+              "odds": {
+                "Yes": 1.95,
+                "No": 1.87
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.62,
+                "Under": 2.33
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.35,
+                "x": 5.39,
+                "2": 8.32
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.16,
+                "1x": 1.08,
+                "2x": 3.23
+              }
+            }
+          },
+          {
+            "index": 2,
+            "team_1": "Espanyol",
+            "team_2": "Levante",
+            "btts": {
+              "odds": {
+                "Yes": 1.61,
+                "No": 2.33
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.69,
+                "Under": 2.18
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.67,
+                "x": 3.88,
+                "2": 2.4
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.26,
+                "1x": 1.58,
+                "2x": 1.48
+              }
+            }
+          },
+          {
+            "index": 3,
+            "team_1": "Barcelona",
+            "team_2": "C\u00e1diz",
+            "btts": {
+              "odds": {
+                "Yes": 1.71,
+                "No": 2.16
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.47,
+                "Under": 2.73
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.38,
+                "x": 5.47,
+                "2": 7.23
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.15,
+                "1x": 1.1,
+                "2x": 3.07
+              }
+            }
+          },
+          {
+            "index": 4,
+            "team_1": "Getafe",
+            "team_2": "Mallorca",
+            "btts": {
+              "odds": {
+                "Yes": 2.18,
+                "No": 1.69
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.59,
+                "Under": 1.51
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.56,
+                "x": 3.24,
+                "2": 2.85
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.35,
+                "1x": 1.43,
+                "2x": 1.52
+              }
+            }
+          },
+          {
+            "index": 5,
+            "team_1": "Real Madrid",
+            "team_2": "Celta Vigo",
+            "btts": {
+              "odds": {
+                "Yes": 1.98,
+                "No": 1.84
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.89,
+                "Under": 1.92
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.57,
+                "x": 4.25,
+                "2": 5.62
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.23,
+                "1x": 1.15,
+                "2x": 2.42
+              }
+            }
+          },
+          {
+            "index": 6,
+            "team_1": "Osasuna",
+            "team_2": "Real Betis",
+            "btts": {
+              "odds": {
+                "Yes": 3.42,
+                "No": 1.32
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 4.08,
+                "Under": 1.24
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 5.53,
+                "x": 2.96,
+                "2": 1.88
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.4,
+                "1x": 1.93,
+                "2x": 1.15
+              }
+            }
+          },
+          {
+            "index": 7,
+            "team_1": "Rayo Vallecano",
+            "team_2": "Granada",
+            "btts": {
+              "odds": {
+                "Yes": 2.25,
+                "No": 1.65
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.62,
+                "Under": 1.5
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 3.59,
+                "x": 3.29,
+                "2": 2.14
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.34,
+                "1x": 1.72,
+                "2x": 1.3
+              }
+            }
+          },
+          {
+            "index": 8,
+            "team_1": "Sevilla",
+            "team_2": "Athletic Bilbao",
+            "btts": {
+              "odds": {
+                "Yes": 2.29,
+                "No": 1.63
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.35,
+                "Under": 1.6
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.68,
+                "x": 3.75,
+                "2": 5.34
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.28,
+                "1x": 1.16,
+                "2x": 2.2
+              }
+            }
+          },
+          {
+            "index": 9,
+            "team_1": "Real Sociedad",
+            "team_2": "Villarreal",
+            "btts": {
+              "odds": {
+                "Yes": 1.8,
+                "No": 2.02
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.95,
+                "Under": 1.86
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.21,
+                "x": 3.67,
+                "2": 3.08
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.38,
+                "2x": 1.67
+              }
+            }
+          }
+        ],
+        "Results": [
+          {
+            "status": "fulltime",
+            "team_1": "Alav\u00e9s",
+            "team_2": "Valencia",
+            "team_1_score": 1,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Atl\u00e9tico Madrid",
+            "team_2": "Elche",
+            "team_1_score": 3,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Espanyol",
+            "team_2": "Levante",
+            "team_1_score": 1,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Barcelona",
+            "team_2": "C\u00e1diz",
+            "team_1_score": 5,
+            "team_2_score": 2
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Getafe",
+            "team_2": "Mallorca",
+            "team_1_score": 0,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Real Madrid",
+            "team_2": "Celta Vigo",
+            "team_1_score": 3,
+            "team_2_score": 2
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Osasuna",
+            "team_2": "Real Betis",
+            "team_1_score": 1,
+            "team_2_score": 3
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Rayo Vallecano",
+            "team_2": "Granada",
+            "team_1_score": 3,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Sevilla",
+            "team_2": "Athletic Bilbao",
+            "team_1_score": 2,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Real Sociedad",
+            "team_2": "Villarreal",
+            "team_1_score": 0,
+            "team_2_score": 1
+          }
+        ],
+        "League Table": [
+          {
+            "team": "Villarreal",
+            "W": 3,
+            "D": 0,
+            "L": 0,
+            "PTS": 9
+          },
+          {
+            "team": "Atl\u00e9tico Madrid",
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "PTS": 7
+          },
+          {
+            "team": "Espanyol",
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "PTS": 7
+          },
+          {
+            "team": "Real Betis",
+            "W": 2,
+            "D": 1,
+            "L": 0,
+            "PTS": 7
+          },
+          {
+            "team": "Sevilla",
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "PTS": 6
+          },
+          {
+            "team": "C\u00e1diz",
+            "W": 2,
+            "D": 0,
+            "L": 1,
+            "PTS": 6
+          },
+          {
+            "team": "Rayo Vallecano",
+            "W": 1,
+            "D": 2,
+            "L": 0,
+            "PTS": 5
+          },
+          {
+            "team": "Mallorca",
+            "W": 1,
+            "D": 2,
+            "L": 0,
+            "PTS": 5
+          },
+          {
+            "team": "Real Sociedad",
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "PTS": 4
+          },
+          {
+            "team": "Barcelona",
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "PTS": 4
+          },
+          {
+            "team": "Levante",
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "PTS": 4
+          },
+          {
+            "team": "Real Madrid",
+            "W": 1,
+            "D": 1,
+            "L": 1,
+            "PTS": 4
+          },
+          {
+            "team": "Granada",
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "PTS": 3
+          },
+          {
+            "team": "Elche",
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "PTS": 3
+          },
+          {
+            "team": "Osasuna",
+            "W": 1,
+            "D": 0,
+            "L": 2,
+            "PTS": 3
+          },
+          {
+            "team": "Alav\u00e9s",
+            "W": 0,
+            "D": 2,
+            "L": 1,
+            "PTS": 2
+          },
+          {
+            "team": "Celta Vigo",
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "PTS": 1
+          },
+          {
+            "team": "Getafe",
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "PTS": 1
+          },
+          {
+            "team": "Valencia",
+            "W": 0,
+            "D": 1,
+            "L": 2,
+            "PTS": 1
+          },
+          {
+            "team": "Athletic Bilbao",
+            "W": 0,
+            "D": 0,
+            "L": 3,
+            "PTS": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "season": 15,
+    "start_time": "2023-03-29 17:48:00",
+    "regions": {
+      "Africa": {
+        "Games": [
+          {
+            "index": 0,
+            "team_1": "Congo DR",
+            "team_2": "Madagascar",
+            "btts": {
+              "odds": {
+                "Yes": 1.89,
+                "No": 1.92
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.12,
+                "Under": 1.73
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.51,
+                "x": 3.51,
+                "2": 2.73
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.31,
+                "1x": 1.46,
+                "2x": 1.53
+              }
+            }
+          },
+          {
+            "index": 1,
+            "team_1": "Algeria",
+            "team_2": "Zambia",
+            "btts": {
+              "odds": {
+                "Yes": 1.81,
+                "No": 2.01
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.99,
+                "Under": 1.83
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.91,
+                "x": 3.62,
+                "2": 2.32
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.62,
+                "2x": 1.42
+              }
+            }
+          },
+          {
+            "index": 2,
+            "team_1": "Gabon",
+            "team_2": "Ghana",
+            "btts": {
+              "odds": {
+                "Yes": 1.79,
+                "No": 2.03
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.96,
+                "Under": 1.85
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.35,
+                "x": 3.63,
+                "2": 2.86
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.43,
+                "2x": 1.6
+              }
+            }
+          },
+          {
+            "index": 3,
+            "team_1": "Kenya",
+            "team_2": "Egypt",
+            "btts": {
+              "odds": {
+                "Yes": 1.66,
+                "No": 2.24
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.76,
+                "Under": 2.07
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.47,
+                "x": 3.8,
+                "2": 2.61
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.27,
+                "1x": 1.5,
+                "2x": 1.55
+              }
+            }
+          },
+          {
+            "index": 4,
+            "team_1": "Morocco",
+            "team_2": "Guinea",
+            "btts": {
+              "odds": {
+                "Yes": 1.77,
+                "No": 2.07
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.92,
+                "Under": 1.89
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.48,
+                "x": 3.65,
+                "2": 2.68
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.48,
+                "2x": 1.55
+              }
+            }
+          },
+          {
+            "index": 5,
+            "team_1": "Mozambique",
+            "team_2": "Senegal",
+            "btts": {
+              "odds": {
+                "Yes": 1.78,
+                "No": 2.05
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.94,
+                "Under": 1.87
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.35,
+                "x": 3.65,
+                "2": 2.85
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.43,
+                "2x": 1.6
+              }
+            }
+          },
+          {
+            "index": 6,
+            "team_1": "Tunisia",
+            "team_2": "Cameroon",
+            "btts": {
+              "odds": {
+                "Yes": 1.76,
+                "No": 2.07
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.91,
+                "Under": 1.9
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.84,
+                "x": 3.67,
+                "2": 2.35
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.29,
+                "1x": 1.6,
+                "2x": 1.43
+              }
+            }
+          },
+          {
+            "index": 7,
+            "team_1": "Tanzania",
+            "team_2": "Zimbabwe",
+            "btts": {
+              "odds": {
+                "Yes": 1.95,
+                "No": 1.86
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.21,
+                "Under": 1.67
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.61,
+                "x": 3.44,
+                "2": 2.66
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.32,
+                "1x": 1.48,
+                "2x": 1.5
+              }
+            }
+          },
+          {
+            "index": 8,
+            "team_1": "Uganda",
+            "team_2": "C\u00f4te d'Ivoire",
+            "btts": {
+              "odds": {
+                "Yes": 1.94,
+                "No": 1.87
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.2,
+                "Under": 1.68
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.63,
+                "x": 3.45,
+                "2": 2.63
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.32,
+                "1x": 1.49,
+                "2x": 1.49
+              }
+            }
+          },
+          {
+            "index": 9,
+            "team_1": "South Africa",
+            "team_2": "Nigeria",
+            "btts": {
+              "odds": {
+                "Yes": 1.86,
+                "No": 1.95
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.07,
+                "Under": 1.76
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.79,
+                "x": 3.54,
+                "2": 2.44
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.3,
+                "1x": 1.56,
+                "2x": 1.45
+              }
+            }
+          }
+        ],
+        "Results": [
+          {
+            "status": "fulltime",
+            "team_1": "Congo DR",
+            "team_2": "Madagascar",
+            "team_1_score": 2,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Algeria",
+            "team_2": "Zambia",
+            "team_1_score": 2,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Gabon",
+            "team_2": "Ghana",
+            "team_1_score": 2,
+            "team_2_score": 2
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Kenya",
+            "team_2": "Egypt",
+            "team_1_score": 4,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Morocco",
+            "team_2": "Guinea",
+            "team_1_score": 3,
+            "team_2_score": 3
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Mozambique",
+            "team_2": "Senegal",
+            "team_1_score": 0,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Tunisia",
+            "team_2": "Cameroon",
+            "team_1_score": 1,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Tanzania",
+            "team_2": "Zimbabwe",
+            "team_1_score": 1,
+            "team_2_score": 3
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Uganda",
+            "team_2": "C\u00f4te d'Ivoire",
+            "team_1_score": 2,
+            "team_2_score": 4
+          },
+          {
+            "status": "fulltime",
+            "team_1": "South Africa",
+            "team_2": "Nigeria",
+            "team_1_score": 1,
+            "team_2_score": 0
+          }
+        ],
+        "League Table": [
+          {
+            "team": "Senegal",
+            "W": 4,
+            "D": 0,
+            "L": 0,
+            "PTS": 12
+          },
+          {
+            "team": "Congo DR",
+            "W": 3,
+            "D": 1,
+            "L": 0,
+            "PTS": 10
+          },
+          {
+            "team": "Kenya",
+            "W": 3,
+            "D": 0,
+            "L": 1,
+            "PTS": 9
+          },
+          {
+            "team": "South Africa",
+            "W": 3,
+            "D": 0,
+            "L": 1,
+            "PTS": 9
+          },
+          {
+            "team": "C\u00f4te d'Ivoire",
+            "W": 2,
+            "D": 2,
+            "L": 0,
+            "PTS": 8
+          },
+          {
+            "team": "Mozambique",
+            "W": 2,
+            "D": 1,
+            "L": 1,
+            "PTS": 7
+          },
+          {
+            "team": "Ghana",
+            "W": 2,
+            "D": 1,
+            "L": 1,
+            "PTS": 7
+          },
+          {
+            "team": "Zimbabwe",
+            "W": 2,
+            "D": 1,
+            "L": 1,
+            "PTS": 7
+          },
+          {
+            "team": "Tunisia",
+            "W": 1,
+            "D": 3,
+            "L": 0,
+            "PTS": 6
+          },
+          {
+            "team": "Algeria",
+            "W": 2,
+            "D": 0,
+            "L": 2,
+            "PTS": 6
+          },
+          {
+            "team": "Nigeria",
+            "W": 1,
+            "D": 2,
+            "L": 1,
+            "PTS": 5
+          },
+          {
+            "team": "Morocco",
+            "W": 1,
+            "D": 2,
+            "L": 1,
+            "PTS": 5
+          },
+          {
+            "team": "Guinea",
+            "W": 1,
+            "D": 1,
+            "L": 2,
+            "PTS": 4
+          },
+          {
+            "team": "Uganda",
+            "W": 1,
+            "D": 1,
+            "L": 2,
+            "PTS": 4
+          },
+          {
+            "team": "Cameroon",
+            "W": 0,
+            "D": 3,
+            "L": 1,
+            "PTS": 3
+          },
+          {
+            "team": "Zambia",
+            "W": 1,
+            "D": 0,
+            "L": 3,
+            "PTS": 3
+          },
+          {
+            "team": "Tanzania",
+            "W": 0,
+            "D": 2,
+            "L": 2,
+            "PTS": 2
+          },
+          {
+            "team": "Gabon",
+            "W": 0,
+            "D": 1,
+            "L": 3,
+            "PTS": 1
+          },
+          {
+            "team": "Egypt",
+            "W": 0,
+            "D": 1,
+            "L": 3,
+            "PTS": 1
+          },
+          {
+            "team": "Madagascar",
+            "W": 0,
+            "D": 0,
+            "L": 4,
+            "PTS": 0
+          }
+        ]
+      }
+    }
+  },
+  {
+    "season": 15,
+    "start_time": "2023-03-29 17:48:00",
+    "regions": {
+      "World": {
+        "Games": [
+          {
+            "index": 0,
+            "team_1": "Argentina",
+            "team_2": "USA",
+            "btts": {
+              "odds": {
+                "Yes": 2.19,
+                "No": 1.69
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.43,
+                "Under": 1.57
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.94,
+                "x": 3.47,
+                "2": 4.04
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.31,
+                "1x": 1.25,
+                "2x": 1.87
+              }
+            }
+          },
+          {
+            "index": 1,
+            "team_1": "Belgium",
+            "team_2": "Netherlands",
+            "btts": {
+              "odds": {
+                "Yes": 1.66,
+                "No": 2.24
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.74,
+                "Under": 2.1
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.11,
+                "x": 3.88,
+                "2": 3.14
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.26,
+                "1x": 1.37,
+                "2x": 1.74
+              }
+            }
+          },
+          {
+            "index": 2,
+            "team_1": "Brazil",
+            "team_2": "Germany",
+            "btts": {
+              "odds": {
+                "Yes": 2.07,
+                "No": 1.76
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.3,
+                "Under": 1.62
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.03,
+                "x": 3.49,
+                "2": 3.7
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.31,
+                "1x": 1.28,
+                "2x": 1.79
+              }
+            }
+          },
+          {
+            "index": 3,
+            "team_1": "Croatia",
+            "team_2": "Algeria",
+            "btts": {
+              "odds": {
+                "Yes": 2.31,
+                "No": 1.62
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.5,
+                "Under": 1.54
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 1.8,
+                "x": 3.53,
+                "2": 4.71
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.3,
+                "1x": 1.19,
+                "2x": 2.02
+              }
+            }
+          },
+          {
+            "index": 4,
+            "team_1": "Ghana",
+            "team_2": "C\u00f4te d'Ivoire",
+            "btts": {
+              "odds": {
+                "Yes": 2.09,
+                "No": 1.75
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 2.43,
+                "Under": 1.56
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.77,
+                "x": 3.32,
+                "2": 2.58
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.34,
+                "1x": 1.51,
+                "2x": 1.45
+              }
+            }
+          },
+          {
+            "index": 5,
+            "team_1": "Italy",
+            "team_2": "Colombia",
+            "btts": {
+              "odds": {
+                "Yes": 1.59,
+                "No": 2.38
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.66,
+                "Under": 2.23
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.65,
+                "x": 3.91,
+                "2": 2.4
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.26,
+                "1x": 1.58,
+                "2x": 1.49
+              }
+            }
+          },
+          {
+            "index": 6,
+            "team_1": "Mexico",
+            "team_2": "Spain",
+            "btts": {
+              "odds": {
+                "Yes": 1.71,
+                "No": 2.16
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.47,
+                "Under": 2.74
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 7.29,
+                "x": 5.5,
+                "2": 1.37
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.15,
+                "1x": 3.12,
+                "2x": 1.1
+              }
+            }
+          },
+          {
+            "index": 7,
+            "team_1": "Nigeria",
+            "team_2": "France",
+            "btts": {
+              "odds": {
+                "Yes": 1.58,
+                "No": 2.4
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.59,
+                "Under": 2.38
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 3.66,
+                "x": 4.19,
+                "2": 1.86
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.23,
+                "1x": 1.95,
+                "2x": 1.29
+              }
+            }
+          },
+          {
+            "index": 8,
+            "team_1": "Senegal",
+            "team_2": "England",
+            "btts": {
+              "odds": {
+                "Yes": 1.48,
+                "No": 2.67
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.48,
+                "Under": 2.69
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 3.44,
+                "x": 4.31,
+                "2": 1.9
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.22,
+                "1x": 1.91,
+                "2x": 1.32
+              }
+            }
+          },
+          {
+            "index": 9,
+            "team_1": "Uruguay",
+            "team_2": "Portugal",
+            "btts": {
+              "odds": {
+                "Yes": 1.65,
+                "No": 2.26
+              }
+            },
+            "o/u 2.5": {
+              "odds": {
+                "Over": 1.75,
+                "Under": 2.09
+              }
+            },
+            "1X2": {
+              "odds": {
+                "1": 2.55,
+                "x": 3.81,
+                "2": 2.53
+              }
+            },
+            "dc": {
+              "odds": {
+                "12": 1.27,
+                "1x": 1.53,
+                "2x": 1.52
+              }
+            }
+          }
+        ],
+        "Results": [
+          {
+            "status": "fulltime",
+            "team_1": "Argentina",
+            "team_2": "USA",
+            "team_1_score": 0,
+            "team_2_score": 4
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Belgium",
+            "team_2": "Netherlands",
+            "team_1_score": 0,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Brazil",
+            "team_2": "Germany",
+            "team_1_score": 2,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Croatia",
+            "team_2": "Algeria",
+            "team_1_score": 1,
+            "team_2_score": 0
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Ghana",
+            "team_2": "C\u00f4te d'Ivoire",
+            "team_1_score": 1,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Italy",
+            "team_2": "Colombia",
+            "team_1_score": 2,
+            "team_2_score": 1
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Mexico",
+            "team_2": "Spain",
+            "team_1_score": 1,
+            "team_2_score": 4
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Nigeria",
+            "team_2": "France",
+            "team_1_score": 1,
+            "team_2_score": 6
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Senegal",
+            "team_2": "England",
+            "team_1_score": 1,
+            "team_2_score": 4
+          },
+          {
+            "status": "fulltime",
+            "team_1": "Uruguay",
+            "team_2": "Portugal",
+            "team_1_score": 0,
+            "team_2_score": 1
+          }
+        ],
+        "League Table": [
+          {
+            "team": "Netherlands",
+            "W": 4,
+            "D": 1,
+            "L": 0,
+            "PTS": 13
+          },
+          {
+            "team": "Brazil",
+            "W": 4,
+            "D": 0,
+            "L": 1,
+            "PTS": 12
+          },
+          {
+            "team": "England",
+            "W": 3,
+            "D": 2,
+            "L": 0,
+            "PTS": 11
+          },
+          {
+            "team": "Spain",
+            "W": 3,
+            "D": 1,
+            "L": 1,
+            "PTS": 10
+          },
+          {
+            "team": "USA",
+            "W": 2,
+            "D": 3,
+            "L": 0,
+            "PTS": 9
+          },
+          {
+            "team": "Belgium",
+            "W": 3,
+            "D": 0,
+            "L": 2,
+            "PTS": 9
+          },
+          {
+            "team": "Croatia",
+            "W": 3,
+            "D": 0,
+            "L": 2,
+            "PTS": 9
+          },
+          {
+            "team": "Nigeria",
+            "W": 2,
+            "D": 1,
+            "L": 2,
+            "PTS": 7
+          },
+          {
+            "team": "Italy",
+            "W": 2,
+            "D": 1,
+            "L": 2,
+            "PTS": 7
+          },
+          {
+            "team": "Mexico",
+            "W": 2,
+            "D": 1,
+            "L": 2,
+            "PTS": 7
+          },
+          {
+            "team": "Germany",
+            "W": 2,
+            "D": 1,
+            "L": 2,
+            "PTS": 7
+          },
+          {
+            "team": "Uruguay",
+            "W": 2,
+            "D": 0,
+            "L": 3,
+            "PTS": 6
+          },
+          {
+            "team": "C\u00f4te d'Ivoire",
+            "W": 1,
+            "D": 3,
+            "L": 1,
+            "PTS": 6
+          },
+          {
+            "team": "Portugal",
+            "W": 2,
+            "D": 0,
+            "L": 3,
+            "PTS": 6
+          },
+          {
+            "team": "France",
+            "W": 1,
+            "D": 1,
+            "L": 3,
+            "PTS": 4
+          },
+          {
+            "team": "Colombia",
+            "W": 1,
+            "D": 1,
+            "L": 3,
+            "PTS": 4
+          },
+          {
+            "team": "Algeria",
+            "W": 1,
+            "D": 1,
+            "L": 3,
+            "PTS": 4
+          },
+          {
+            "team": "Argentina",
+            "W": 1,
+            "D": 1,
+            "L": 3,
+            "PTS": 4
+          },
+          {
+            "team": "Ghana",
+            "W": 0,
+            "D": 2,
+            "L": 3,
+            "PTS": 2
+          },
+          {
+            "team": "Senegal",
+            "W": 0,
+            "D": 2,
+            "L": 3,
+            "PTS": 2
+          }
+        ]
+      }
+    }
+  }
+]
